@@ -14,6 +14,7 @@ setup(name='nodeconfeu_watch',
           'seaborn',
           'tensorflow',
           'matplotlib',
+          'altair',
           'flatbuffers'
       ],
       test_suite='nose.collector',
